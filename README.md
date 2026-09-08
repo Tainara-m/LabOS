@@ -1,7 +1,5 @@
 # Lab OS — Academia de SysAdmins
 
-![Lab OS](favicon.svg)
-
 **Laboratório interativo de Administração de Sistemas Operacionais** feito apenas com **HTML, CSS e JavaScript**.
 
 Aprenda na prática (e de forma divertida) os principais conceitos de administração de SO: terminal, backup, recuperação a desastres, imagens de sistema, instalação de apps/SO, segurança, filesystem e máquinas virtuais.

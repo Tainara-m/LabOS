@@ -1,4 +1,3 @@
-```markdown
 # Lab OS — Academia de SysAdmins
 
 ![Lab OS](favicon.svg)
